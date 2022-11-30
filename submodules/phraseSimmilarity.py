@@ -32,4 +32,3 @@ X = vectorizer.fit_transform(headlines)
 arr = X.toarray()
 
 create_heatmap(cosine_similarity(arr))
-# what the hell
