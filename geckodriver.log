@@ -1,0 +1,177 @@
+1669788598955	geckodriver	INFO	Listening on 127.0.0.1:10456
+1669788602027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile3SGaLA"
+1669788618608	geckodriver	INFO	Listening on 127.0.0.1:10531
+1669788621671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile6tqbsV"
+1669788621888	Marionette	INFO	Marionette enabled
+1669788621891	Marionette	INFO	Listening on port 10541
+Read port: 10541
+WebDriver BiDi listening on ws://127.0.0.1:10532
+1669788621958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile6tqbsV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:10532/devtools/browser/f2bf2f1c-064e-40a1-94e6-47c66354ea23
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669789319785	Marionette	INFO	Stopped listening on port 10541
+1669789368303	geckodriver	INFO	Listening on 127.0.0.1:11172
+1669789371341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileXoR713"
+1669789371553	Marionette	INFO	Marionette enabled
+1669789371556	Marionette	INFO	Listening on port 11183
+Read port: 11183
+WebDriver BiDi listening on ws://127.0.0.1:11173
+1669789371621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileXoR713\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11173/devtools/browser/b45a17ae-563b-4e63-9faa-69663c517cb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669789663325	Marionette	INFO	Stopped listening on port 11183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "11265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileRIEqKe"
+1669789392004	Marionette	INFO	Marionette enabled
+1669789392007	Marionette	INFO	Listening on port 11276
+Read port: 11276
+WebDriver BiDi listening on ws://127.0.0.1:11265
+1669789392073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileRIEqKe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11265/devtools/browser/ff738955-f126-4da6-a12b-e87eecfe9bc7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669789663324	Marionette	INFO	Stopped listening on port 11276
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "11351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileZ9xYQJ"
+1669789406776	Marionette	INFO	Marionette enabled
+1669789406779	Marionette	INFO	Listening on port 11367
+WebDriver BiDi listening on ws://127.0.0.1:11351
+Read port: 11367
+1669789406959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileZ9xYQJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11351/devtools/browser/0e4ae8ec-8e34-4f8e-bfaf-3049795bdc2c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669789663327	Marionette	INFO	Stopped listening on port 11367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669789690166	geckodriver	INFO	Listening on 127.0.0.1:11777
+1669789693225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofilexOUabQ"
+1669789693437	Marionette	INFO	Marionette enabled
+1669789693440	Marionette	INFO	Listening on port 11789
+Read port: 11789
+WebDriver BiDi listening on ws://127.0.0.1:11778
+1669789693506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofilexOUabQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11778/devtools/browser/36570944-af74-4f3c-90c3-c8f07463eb4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669789862923	Marionette	INFO	Stopped listening on port 11789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "11954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileHzfCNE"
+1669789789082	Marionette	INFO	Marionette enabled
+1669789789085	Marionette	INFO	Listening on port 11964
+Read port: 11964
+WebDriver BiDi listening on ws://127.0.0.1:11954
+1669789789150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileHzfCNE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11954/devtools/browser/6e5cf8b8-4839-48de-987b-945a8efec18b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669789862925	Marionette	INFO	Stopped listening on port 11964
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669790470415	geckodriver	INFO	Listening on 127.0.0.1:12596
+1669790473507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileEhMITz"
+1669790473718	Marionette	INFO	Marionette enabled
+1669790473721	Marionette	INFO	Listening on port 12607
+Read port: 12607
+WebDriver BiDi listening on ws://127.0.0.1:12597
+1669790473786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileEhMITz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12597/devtools/browser/b684f46a-76aa-4dab-9edd-e619d0495acb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669790813432	Marionette	INFO	Stopped listening on port 12607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofile8NVo4z"
+1669790673231	Marionette	INFO	Marionette enabled
+1669790673234	Marionette	INFO	Listening on port 12857
+Read port: 12857
+WebDriver BiDi listening on ws://127.0.0.1:12846
+1669790673301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile8NVo4z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12846/devtools/browser/5ac9cc5a-1276-4979-af64-85bfc540d634
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669790813430	Marionette	INFO	Stopped listening on port 12857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "12933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile4Nf3g9"
+1669790692369	Marionette	INFO	Marionette enabled
+1669790692373	Marionette	INFO	Listening on port 12944
+WebDriver BiDi listening on ws://127.0.0.1:12933
+Read port: 12944
+1669790692550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile4Nf3g9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12933/devtools/browser/f42d63d0-d444-42d6-927d-c0db8f2a1242
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669790819716	Marionette	INFO	Stopped listening on port 12944
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "13028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofilea7PFvm"
+1669790728627	Marionette	INFO	Marionette enabled
+1669790728631	Marionette	INFO	Listening on port 13039
+WebDriver BiDi listening on ws://127.0.0.1:13028
+Read port: 13039
+1669790728813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofilea7PFvm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13028/devtools/browser/37150dfe-043b-4430-be1f-d74fea51118e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669790813431	Marionette	INFO	Stopped listening on port 13039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669791784702	geckodriver	INFO	Listening on 127.0.0.1:14054
+1669791787773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile1bxW3i"
+1669791787988	Marionette	INFO	Marionette enabled
+1669791787991	Marionette	INFO	Listening on port 14065
+Read port: 14065
+WebDriver BiDi listening on ws://127.0.0.1:14055
+1669791788057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile1bxW3i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14055/devtools/browser/29928adb-0785-4afd-a976-2beaa9246b16
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669791902708	Marionette	INFO	Stopped listening on port 14065
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "14158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile1PL8rc"
+1669791834646	Marionette	INFO	Marionette enabled
+1669791834649	Marionette	INFO	Listening on port 14169
+Read port: 14169
+WebDriver BiDi listening on ws://127.0.0.1:14158
+1669791834714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofile1PL8rc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14158/devtools/browser/f9fc7d9d-15ba-4872-bac3-4ead680e0397
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669791900889	Marionette	INFO	Stopped listening on port 14169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669792257765	geckodriver	INFO	Listening on 127.0.0.1:14593
+1669792260816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileACXIf8"
+1669792261038	Marionette	INFO	Marionette enabled
+1669792261042	Marionette	INFO	Listening on port 14605
+WebDriver BiDi listening on ws://127.0.0.1:14594
+Read port: 14605
+1669792261219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileACXIf8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14594/devtools/browser/6ad6e1f0-1964-45b8-9230-5440c5c49ac4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669792294396	geckodriver	INFO	Listening on 127.0.0.1:14687
+1669792297454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofilecL8h0V"
+1669792297664	Marionette	INFO	Marionette enabled
+1669792297668	Marionette	INFO	Listening on port 14698
+Read port: 14698
+WebDriver BiDi listening on ws://127.0.0.1:14688
+1669792297732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofilecL8h0V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14688/devtools/browser/39c02758-45ff-4cea-ba54-46e1c8a8fae9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669792326178	geckodriver	INFO	Listening on 127.0.0.1:14801
+1669792329246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileMEB6eq"
+1669792329456	Marionette	INFO	Marionette enabled
+1669792329459	Marionette	INFO	Listening on port 14813
+Read port: 14813
+WebDriver BiDi listening on ws://127.0.0.1:14802
+1669792329524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\loli\\AppData\\Local\\Temp\\rust_mozprofileMEB6eq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14802/devtools/browser/eb375b02-7ce7-41cb-bf78-fcd3740cada7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://boards.greenhouse.io."
+1669792338618	Marionette	INFO	Stopped listening on port 14813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
